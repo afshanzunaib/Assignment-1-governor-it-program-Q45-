@@ -1,0 +1,15 @@
+{
+  "name": "q45-afshan",
+  "version": "1.0.0",
+  "description": "In this file solved 45Q in governor IT insitive programe assignment ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "afshan (Roll No: 00310617) ",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.11.24"
+  }
+}
